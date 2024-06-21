@@ -1,0 +1,38 @@
+@font-face {
+    font-family: Abel;
+    src:('../fonts/Abel-Regular.ttf');
+}
+
+@font-face {
+    font-family: Livvic;
+    src:('../fonts/Livvic-Black.ttf');
+}
+
+@font-face {
+    font-family: Livvic;
+    src:('../fonts/Livvic-BlackItalic.ttf');
+}
+
+@font-face {
+    font-family: Livvic;
+    src:('../fonts/Livvic-Bold.ttf');
+}
+
+@font-face {
+    font-family: Livvic;
+    src:('../fonts/Livvic-BoldItalic.ttf');
+}
+@font-face {
+    font-family: Livvic;
+    src:('../fonts/Livvic-Italic.ttf');
+}
+
+@font-face {
+    font-family: Livvic;
+    src:('../fonts/Livvic-Light.ttf');
+}
+
+@font-face {
+    font-family: Livvic;
+    src:('../fonts/Livvic-Regular.ttf');
+}

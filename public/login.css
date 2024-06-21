@@ -1,0 +1,11 @@
+@import url(‘https://fonts.googleapis.com/css?family=Poppins’);
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background: #ececec;
+}
+
+.box-area
+{
+    width: 1000px;
+}
